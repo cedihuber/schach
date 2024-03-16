@@ -1,0 +1,10 @@
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\bin\Release\Schach.exe.config
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\bin\Release\Schach.exe
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\bin\Release\Schach.pdb
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.Form1.resources
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.Properties.Resources.resources
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.csproj.GenerateResource.cache
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.csproj.CoreCompileInputs.cache
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.exe
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.pdb
+K:\Cédric\Informatik\Schach_git\schach_ie\Schach\obj\Release\Schach.csprojAssemblyReference.cache

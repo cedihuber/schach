@@ -1,0 +1,12 @@
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/bin/Debug/Schach.exe.config
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/bin/Debug/Schach.exe
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/bin/Debug/Schach.pdb
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.csprojAssemblyReference.cache
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.Form1.resources
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.Properties.Resources.resources
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.csproj.GenerateResource.cache
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.csproj.CoreCompileInputs.cache
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.exe
+K:/Cédric/Informatik/Schach_git/schach_ie/Schach/obj/Debug/Schach.pdb
+/home/cedric/Documents/Bewerbung/schach_ie/Schach/obj/Debug/Schach.exe
+/home/cedric/Documents/Bewerbung/schach_ie/Schach/obj/Debug/Schach.pdb
